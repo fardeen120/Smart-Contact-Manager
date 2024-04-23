@@ -1,0 +1,12 @@
+com\smart\config\MyConfig.class
+com\smart\controllers\UserController.class
+com\smart\controllers\HomeController.class
+com\smart\config\CustomUserDetails.class
+com\smart\entities\Contact.class
+com\smart\config\UserDetailsServiceImpl.class
+com\smart\dao\UserRepository.class
+com\smart\controllers\SearchController.class
+com\smart\SmartContactManagerSqLiteApplication.class
+com\smart\helper\Message.class
+com\smart\dao\ContactRepository.class
+com\smart\entities\User.class
